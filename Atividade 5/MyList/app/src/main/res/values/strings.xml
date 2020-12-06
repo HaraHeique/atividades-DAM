@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="add">Add</string>
+    <string name="titulo">Título</string>
+    <string name="adid_item">Adicionar Item</string>
+    <string name="descricao">Descrição</string>
+</resources>

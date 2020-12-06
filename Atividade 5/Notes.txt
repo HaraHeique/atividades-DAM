@@ -1,0 +1,2 @@
+Este exercício é o mesmo do app list, porém mostrando os ciclos de vidas das Activities (igual no
+angular referente aos componentes) e também sobre view models.
