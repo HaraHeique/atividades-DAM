@@ -1,0 +1,2 @@
+Este exercício é sobre a criação de um galeria de fotos. Abordam vários temas, como por exemplo na
+autorização de utilizar recursos do celular, armazenamentos compartilhados e privados e afins.
