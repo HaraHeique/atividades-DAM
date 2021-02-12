@@ -1,2 +1,2 @@
-Este exercício é sobre a criação de um galeria de fotos. Abordam vários temas, como por exemplo na
-autorização de utilizar recursos do celular, armazenamentos compartilhados e privados e afins.
+Este exercício é sobre a criação de um galeria de fotos. Nele é possível tirar foto na Activity principal (MainActivity) e ao apertar na foto tirada é possível vê-la em fullscreen. Neste caso nesta App não teve necessidade de utilizar ViewModels da Activity para armazenar estados, pois foi utilizado o espaço interno da App.
+Abordam vários temas, como por exemplo na autorização de utilizar recursos do celular, armazenamentos internos da aplicação e compartilhados afins.

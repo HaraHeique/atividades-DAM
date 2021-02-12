@@ -1,0 +1,8 @@
+Este exercício é sobre a criação de uma galeria pública de fotos que existem no armazenamento compartilhado da aplicação. Nele também é possível enxergar as imagens no formato GRID e LIST.
+Neste App aborda diversos assuntos já vistos como:
+- ViewModels;
+- Permissionamentos de recursos do dispositivo mobile;
+- RecycleView para formato Grid e List;
+- Ciclo de vida das Activities;
+- Fragments;
+- E afins.
