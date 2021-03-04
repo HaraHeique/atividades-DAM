@@ -1,0 +1,6 @@
+Este exercício consiste na criação de uma lista de produtos, onde os produtos são adicionados ao decorrer de seu cadastro. O interessante é que nele
+é realizada uma comunicação com um server criado em php, onde nele é possível cadastrar um produto e recuperar produtos. Conceitos abordados:
+- LiveData;
+- Permissionamentos;
+- Execuções em threads paralelas a thread principal de UI;
+- afins.
